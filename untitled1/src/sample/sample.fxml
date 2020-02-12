@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane prefHeight="522.0" prefWidth="628.0">
+         <children>
+            <Label alignment="CENTER" layoutX="51.0" layoutY="245.0" prefHeight="32.0" prefWidth="85.0" text="Votre Prix :" textFill="#fc0000" fx:id="Proposition">
+               <font>
+                  <Font name="System Bold Italic" size="12.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="418.0" fitWidth="364.0" layoutX="108.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+               <Image url="@juste.png" />
+            </image>
+            </ImageView>
+            <TextField alignment="CENTER" layoutX="165.0" layoutY="249.0" prefHeight="25.0" prefWidth="341.0" fx:id="text" onAction="#fonctionText"/>
+
+            <Button layoutX="413.0" layoutY="299.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="85.0" text="Valider" fx:id="button" onAction="#nouvelleF">
+               <font>
+                  <Font name="System Bold Italic" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+   </children>
+</GridPane>

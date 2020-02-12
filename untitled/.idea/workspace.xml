@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5581fcfd-d055-497a-8af1-b2cd58a9e75e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/untitled/tictactoe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JusteP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/juste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/justeP.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/JusteP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/juste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/justeP.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/JusteP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/juste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/justeP.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XhOD2WRUFZQAJXSuszipQowmb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/JavaFX/javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tictactoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tictactoe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5581fcfd-d055-497a-8af1-b2cd58a9e75e" name="Default Changelist" comment="" />
+      <created>1581494736591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581494736591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="527" key="GridCell.Tab.0.bottom" timestamp="1581497916582">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1874" height="527" key="GridCell.Tab.0.bottom/0.33.1920.1047@0.33.1920.1047" timestamp="1581497916582" />
+    <state width="1874" height="527" key="GridCell.Tab.0.center" timestamp="1581497916581">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1874" height="527" key="GridCell.Tab.0.center/0.33.1920.1047@0.33.1920.1047" timestamp="1581497916581" />
+    <state width="1874" height="527" key="GridCell.Tab.0.left" timestamp="1581497916581">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1874" height="527" key="GridCell.Tab.0.left/0.33.1920.1047@0.33.1920.1047" timestamp="1581497916581" />
+    <state width="1874" height="527" key="GridCell.Tab.0.right" timestamp="1581497916582">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state width="1874" height="527" key="GridCell.Tab.0.right/0.33.1920.1047@0.33.1920.1047" timestamp="1581497916582" />
+    <state x="653" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1581494740195">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="653" y="383" key="com.intellij.ide.util.TipDialog/0.33.1920.1047@0.33.1920.1047" timestamp="1581494740195" />
+    <state x="335" y="171" width="1245" height="771" key="new project wizard" timestamp="1581496135294">
+      <screen x="0" y="33" width="1920" height="1047" />
+    </state>
+    <state x="335" y="171" width="1245" height="771" key="new project wizard/0.33.1920.1047@0.33.1920.1047" timestamp="1581496135294" />
+  </component>
+</project>
